@@ -1,0 +1,4 @@
+interface:
+  display_name: "影视角色原声音频提取"
+  short_description: "从影视素材定位指定角色对白，剪辑去配乐并导出每人两到三分钟原声音频"
+  default_prompt: "使用 $film-character-audio，为指定影视版本和角色查找或读取素材，提取原声并交付音频及来源时间表。"

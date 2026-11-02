@@ -1,0 +1,23 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Local models, source media, generated audio and working files
+models/
+output/
+.cache/
+*.mp4
+*.mkv
+*.mov
+*.mp3
+*.wav
+*.flac
+*.onnx
+*.pt
+*.pth
